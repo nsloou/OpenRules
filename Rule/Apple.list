@@ -1,4 +1,4 @@
-#Rules source,delete Repeat rules(no .cn rule)
+#Rules source,(delete Repeat and ".cn" rules)
 #form https://github.com/geekdada/surge-list/blob/master/surgio-snippet/apple.tpl
 #form https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Apple.list
 #form https://support.apple.com/zh-cn/HT210060

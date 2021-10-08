@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple.com.edgesuite.net
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,entrust.net
@@ -26,8 +25,6 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,smp-device,DIRECT
 DOMAIN-KEYWORD,push-apple.com.akadns.net
-PROCESS-NAME,com.apple.geod
-PROCESS-NAME,com.storedownloadd
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
@@ -38,3 +35,6 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+#Macos PROCESS-NAME
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,com.storedownloadd

@@ -3,7 +3,8 @@
 #form https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Apple.list
 #form https://support.apple.com/zh-cn/HT210060
 DOMAIN-SUFFIX,apple
-DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFF,baidu.com
+DOMAIN-SUFF,apple.co
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,apple.com
